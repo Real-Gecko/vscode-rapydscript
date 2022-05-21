@@ -1,0 +1,126 @@
+[
+    {
+        "property": "concat()",
+        "description": "Joins two or more arrays, and returns a copy of the joined arrays"
+    },
+    {
+        "property": "copyWithin()",
+        "description": "Copies array elements within the array, to and from specified positions"
+    },
+    {
+        "property": "entries()",
+        "description": "Returns a key/value pair Array Iteration Object"
+    },
+    {
+        "property": "every()",
+        "description": "Checks if every element in an array pass a test"
+    },
+    {
+        "property": "fill()",
+        "description": "Fill the elements in an array with a static value"
+    },
+    {
+        "property": "filter()",
+        "description": "Creates a new array with every element in an array that pass a test"
+    },
+    {
+        "property": "find()",
+        "description": "Returns the value of the first element in an array that pass a test"
+    },
+    {
+        "property": "findIndex()",
+        "description": "Returns the index of the first element in an array that pass a test"
+    },
+    {
+        "property": "forEach()",
+        "description": "Calls a function for each array element"
+    },
+    {
+        "property": "from()",
+        "description": "Creates an array from an object"
+    },
+    {
+        "property": "includes()",
+        "description": "Check if an array contains the specified element"
+    },
+    {
+        "property": "indexOf()",
+        "description": "Search the array for an element and returns its position"
+    },
+    {
+        "property": "isArray()",
+        "description": "Checks whether an object is an array"
+    },
+    {
+        "property": "join()",
+        "description": "Joins all elements of an array into a string"
+    },
+    {
+        "property": "keys()",
+        "description": "Returns a Array Iteration Object, containing the keys of the original array"
+    },
+    {
+        "property": "lastIndexOf()",
+        "description": "Search the array for an element, starting at the end, and returns its position"
+    },
+    {
+        "property": "length",
+        "description": "Sets or returns the number of elements in an array"
+    },
+    {
+        "property": "map()",
+        "description": "Creates a new array with the result of calling a function for each array element"
+    },
+    {
+        "property": "pop()",
+        "description": "Removes the last element of an array, and returns that element"
+    },
+    {
+        "property": "push()",
+        "description": "Adds new elements to the end of an array, and returns the new length"
+    },
+    {
+        "property": "reduce()",
+        "description": "Reduce the values of an array to a single value (going left-to-right)"
+    },
+    {
+        "property": "reduceRight()",
+        "description": "Reduce the values of an array to a single value (going right-to-left)"
+    },
+    {
+        "property": "reverse()",
+        "description": "Reverses the order of the elements in an array"
+    },
+    {
+        "property": "shift()",
+        "description": "Removes the first element of an array, and returns that element"
+    },
+    {
+        "property": "slice()",
+        "description": "Selects a part of an array, and returns the new array"
+    },
+    {
+        "property": "some()",
+        "description": "Checks if any of the elements in an array pass a test"
+    },
+    {
+        "property": "sort()",
+        "description": "Sorts the elements of an array"
+    },
+    {
+        "property": "splice()",
+        "description": "Adds/Removes elements from an array"
+    },
+    {
+        "property": "toString()",
+        "description": "Converts an array to a string, and returns the result"
+    },
+    {
+        "property": "unshift()",
+        "description": "Adds new elements to the beginning of an array, and returns the new length"
+    },
+    {
+        "property": "valueOf()",
+        "description": "Returns the primitive value of an array"
+    }
+]

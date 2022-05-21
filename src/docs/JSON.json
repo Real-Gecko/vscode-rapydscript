@@ -1,0 +1,10 @@
+[
+    {
+        "property": "parse()",
+        "description": "Parses a JSON string and returns a JavaScript object"
+    },
+    {
+        "property": "stringify()",
+        "description": "Convert a JavaScript object to a JSON string"
+    }
+]

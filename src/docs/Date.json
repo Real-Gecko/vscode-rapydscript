@@ -1,0 +1,198 @@
+[
+    {
+        "property": "getDate()",
+        "description": "Returns the day of the month (from 1-31)"
+    },
+    {
+        "property": "getDay()",
+        "description": "Returns the day of the week (from 0-6)"
+    },
+    {
+        "property": "getFullYear()",
+        "description": "Returns the year"
+    },
+    {
+        "property": "getHours()",
+        "description": "Returns the hour (from 0-23)"
+    },
+    {
+        "property": "getMilliseconds()",
+        "description": "Returns the milliseconds (from 0-999)"
+    },
+    {
+        "property": "getMinutes()",
+        "description": "Returns the minutes (from 0-59)"
+    },
+    {
+        "property": "getMonth()",
+        "description": "Returns the month (from 0-11)"
+    },
+    {
+        "property": "getSeconds()",
+        "description": "Returns the seconds (from 0-59)"
+    },
+    {
+        "property": "getTime()",
+        "description": "Returns the number of milliseconds since midnight Jan 1 1970, and a specified date"
+    },
+    {
+        "property": "getTimezoneOffset()",
+        "description": "Returns the time difference between UTC time and local time, in minutes"
+    },
+    {
+        "property": "getUTCDate()",
+        "description": "Returns the day of the month, according to universal time (from 1-31)"
+    },
+    {
+        "property": "getUTCDay()",
+        "description": "Returns the day of the week, according to universal time (from 0-6)"
+    },
+    {
+        "property": "getUTCFullYear()",
+        "description": "Returns the year, according to universal time"
+    },
+    {
+        "property": "getUTCHours()",
+        "description": "Returns the hour, according to universal time (from 0-23)"
+    },
+    {
+        "property": "getUTCMilliseconds()",
+        "description": "Returns the milliseconds, according to universal time (from 0-999)"
+    },
+    {
+        "property": "getUTCMinutes()",
+        "description": "Returns the minutes, according to universal time (from 0-59)"
+    },
+    {
+        "property": "getUTCMonth()",
+        "description": "Returns the month, according to universal time (from 0-11)"
+    },
+    {
+        "property": "getUTCSeconds()",
+        "description": "Returns the seconds, according to universal time (from 0-59)"
+    },
+    {
+        "property": "getYear()",
+        "description": "Deprecated. Use the getFullYear() method instead"
+    },
+    {
+        "property": "now()",
+        "description": "Returns the number of milliseconds since midnight Jan 1, 1970"
+    },
+    {
+        "property": "parse()",
+        "description": "Parses a date string and returns the number of milliseconds since January 1, 1970"
+    },
+    {
+        "property": "setDate()",
+        "description": "Sets the day of the month of a date object"
+    },
+    {
+        "property": "setFullYear()",
+        "description": "Sets the year of a date object"
+    },
+    {
+        "property": "setHours()",
+        "description": "Sets the hour of a date object"
+    },
+    {
+        "property": "setMilliseconds()",
+        "description": "Sets the milliseconds of a date object"
+    },
+    {
+        "property": "setMinutes()",
+        "description": "Set the minutes of a date object"
+    },
+    {
+        "property": "setMonth()",
+        "description": "Sets the month of a date object"
+    },
+    {
+        "property": "setSeconds()",
+        "description": "Sets the seconds of a date object"
+    },
+    {
+        "property": "setTime()",
+        "description": "Sets a date to a specified number of milliseconds after/before January 1, 1970"
+    },
+    {
+        "property": "setUTCDate()",
+        "description": "Sets the day of the month of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCFullYear()",
+        "description": "Sets the year of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCHours()",
+        "description": "Sets the hour of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCMilliseconds()",
+        "description": "Sets the milliseconds of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCMinutes()",
+        "description": "Set the minutes of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCMonth()",
+        "description": "Sets the month of a date object, according to universal time"
+    },
+    {
+        "property": "setUTCSeconds()",
+        "description": "Set the seconds of a date object, according to universal time"
+    },
+    {
+        "property": "setYear()",
+        "description": "Deprecated. Use the setFullYear() method instead"
+    },
+    {
+        "property": "toDateString()",
+        "description": "Converts the date portion of a Date object into a readable string"
+    },
+    {
+        "property": "toGMTString()",
+        "description": "Deprecated. Use the toUTCString() method instead"
+    },
+    {
+        "property": "toISOString()",
+        "description": "Returns the date as a string, using the ISO standard"
+    },
+    {
+        "property": "toJSON()",
+        "description": "Returns the date as a string, formatted as a JSON date"
+    },
+    {
+        "property": "toLocaleDateString()",
+        "description": "Returns the date portion of a Date object as a string, using locale conventions"
+    },
+    {
+        "property": "toLocaleTimeString()",
+        "description": "Returns the time portion of a Date object as a string, using locale conventions"
+    },
+    {
+        "property": "toLocaleString()",
+        "description": "Converts a Date object to a string, using locale conventions"
+    },
+    {
+        "property": "toString()",
+        "description": "Converts a Date object to a string"
+    },
+    {
+        "property": "toTimeString()",
+        "description": "Converts the time portion of a Date object to a string"
+    },
+    {
+        "property": "toUTCString()",
+        "description": "Converts a Date object to a string, according to universal time"
+    },
+    {
+        "property": "UTC()",
+        "description": "Returns the number of milliseconds in a date since midnight of January 1, 1970, according to UTC time"
+    },
+    {
+        "property": "valueOf()",
+        "description": "Returns the primitive value of a Date object"
+    }
+]

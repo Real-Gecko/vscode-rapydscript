@@ -1,0 +1,102 @@
+[
+    {
+        "property": "charAt()",
+        "description": "Returns the character at a specified index (position)"
+    },
+    {
+        "property": "charCodeAt()",
+        "description": "Returns the Unicode of the character at a specified index"
+    },
+    {
+        "property": "concat()",
+        "description": "Returns two or more joined strings"
+    },
+    {
+        "property": "endsWith()",
+        "description": "Returns if a string ends with a specified value"
+    },
+    {
+        "property": "fromCharCode()",
+        "description": "Returns Unicode values as characters"
+    },
+    {
+        "property": "includes()",
+        "description": "Returns if a string contains a specified value"
+    },
+    {
+        "property": "indexOf()",
+        "description": "Returns the index (position) of the first occurrence of a value in a string"
+    },
+    {
+        "property": "lastIndexOf()",
+        "description": "Returns the index (position) of the last occurrence of a value in a string"
+    },
+    {
+        "property": "localeCompare()",
+        "description": "Compares two strings in the current locale"
+    },
+    {
+        "property": "match()",
+        "description": "Searches a string for a value, or a regular expression, and returns the matches"
+    },
+    {
+        "property": "repeat()",
+        "description": "Returns a new string with a number of copies of a string"
+    },
+    {
+        "property": "replace()",
+        "description": "Searches a string for a value, or a regular expression, and returns a string where the values are replaced"
+    },
+    {
+        "property": "search()",
+        "description": "Searches a string for a value, or regular expression, and returns the index (position) of the match"
+    },
+    {
+        "property": "slice()",
+        "description": "Extracts a part of a string and returns a new string"
+    },
+    {
+        "property": "split()",
+        "description": "Splits a string into an array of substrings"
+    },
+    {
+        "property": "startsWith()",
+        "description": "Checks whether a string begins with specified characters"
+    },
+    {
+        "property": "substr()",
+        "description": "Extracts a number of characters from a string, from a start index (position)"
+    },
+    {
+        "property": "substring()",
+        "description": "Extracts characters from a string, between two specified indices (positions)"
+    },
+    {
+        "property": "toLocaleLowerCase()",
+        "description": "Returns a string converted to lowercase letters, using the host's locale"
+    },
+    {
+        "property": "toLocaleUpperCase()",
+        "description": "Returns a string converted to uppercase letters, using the host's locale"
+    },
+    {
+        "property": "toLowerCase()",
+        "description": "Returns a string converted to lowercase letters"
+    },
+    {
+        "property": "toString()",
+        "description": "Returns a string or a string object as a string"
+    },
+    {
+        "property": "toUpperCase()",
+        "description": "Returns a string converted to uppercase letters"
+    },
+    {
+        "property": "trim()",
+        "description": "Returns a string with removed whitespaces"
+    },
+    {
+        "property": "valueOf()",
+        "description": "Returns the primitive value of a string or a string object"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "property": "assert()",
+        "description": "Writes an error message to the console if a assertion is false"
+    },
+    {
+        "property": "clear()",
+        "description": "Clears the console"
+    },
+    {
+        "property": "count()",
+        "description": "Logs the number of times that this particular call to count() has been called"
+    },
+    {
+        "property": "error()",
+        "description": "Outputs an error message to the console"
+    },
+    {
+        "property": "group()",
+        "description": "Creates a new inline group in the console. This indents following console messages by an additional level, until console.groupEnd() is called"
+    },
+    {
+        "property": "groupCollapsed()",
+        "description": "Creates a new inline group in the console. However, the new group is created collapsed. The user will need to use the disclosure button to expand it"
+    },
+    {
+        "property": "groupEnd()",
+        "description": "Exits the current inline group in the console"
+    },
+    {
+        "property": "info()",
+        "description": "Outputs an informational message to the console"
+    },
+    {
+        "property": "log()",
+        "description": "Outputs a message to the console"
+    },
+    {
+        "property": "table()",
+        "description": "Displays tabular data as a table"
+    },
+    {
+        "property": "time()",
+        "description": "Starts a timer (can track how long an operation takes)"
+    },
+    {
+        "property": "timeEnd()",
+        "description": "Stops a timer that was previously started by console.time()"
+    },
+    {
+        "property": "trace()",
+        "description": "Outputs a stack trace to the console"
+    },
+    {
+        "property": "warn()",
+        "description": "Outputs a warning message to the console"
+    }
+]

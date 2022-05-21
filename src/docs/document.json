@@ -1,0 +1,222 @@
+[
+    {
+        "property": "activeElement",
+        "description": "Returns the currently focused element in the document"
+    },
+    {
+        "property": "addEventListener()",
+        "description": "Attaches an event handler to the document"
+    },
+    {
+        "property": "adoptNode()",
+        "description": "Adopts a node from another document"
+    },
+    {
+        "property": "anchors",
+        "description": "Deprecated"
+    },
+    {
+        "property": "applets",
+        "description": "Deprecated"
+    },
+    {
+        "property": "baseURI",
+        "description": "Returns the absolute base URI of a document"
+    },
+    {
+        "property": "body",
+        "description": "Sets or returns the document's body (the <body> element)"
+    },
+    {
+        "property": "charset",
+        "description": "Deprecated"
+    },
+    {
+        "property": "characterSet",
+        "description": "Returns the character encoding for the document"
+    },
+    {
+        "property": "close()",
+        "description": "Closes the output stream previously opened with document.open()"
+    },
+    {
+        "property": "cookie",
+        "description": "Returns all name/value pairs of cookies in the document"
+    },
+    {
+        "property": "createAttribute()",
+        "description": "Creates an attribute node"
+    },
+    {
+        "property": "createComment()",
+        "description": "Creates a Comment node with the specified text"
+    },
+    {
+        "property": "createDocumentFragment()",
+        "description": "Creates an empty DocumentFragment node"
+    },
+    {
+        "property": "createElement()",
+        "description": "Creates an Element node"
+    },
+    {
+        "property": "createEvent()",
+        "description": "Creates a new event"
+    },
+    {
+        "property": "createTextNode()",
+        "description": "Creates a Text node"
+    },
+    {
+        "property": "defaultView",
+        "description": "Returns the window object associated with a document, or null if none is available."
+    },
+    {
+        "property": "designMode",
+        "description": "Controls whether the entire document should be editable or not."
+    },
+    {
+        "property": "doctype",
+        "description": "Returns the Document Type Declaration associated with the document"
+    },
+    {
+        "property": "documentElement",
+        "description": "Returns the Document Element of the document (the <html> element)"
+    },
+    {
+        "property": "documentMode",
+        "description": "Deprecated"
+    },
+    {
+        "property": "documentURI",
+        "description": "Sets or returns the location of the document"
+    },
+    {
+        "property": "domain",
+        "description": "Returns the domain name of the server that loaded the document"
+    },
+    {
+        "property": "domConfig",
+        "description": "Deprecated"
+    },
+    {
+        "property": "embeds",
+        "description": "Returns a collection of all <embed> elements the document"
+    },
+    {
+        "property": "execCommand()",
+        "description": "Deprecated"
+    },
+    {
+        "property": "forms",
+        "description": "Returns a collection of all <form> elements in the document"
+    },
+    {
+        "property": "getElementById()",
+        "description": "Returns the element that has the ID attribute with the specified value"
+    },
+    {
+        "property": "getElementsByClassName()",
+        "description": "Returns an HTMLCollection containing all elements with the specified class name"
+    },
+    {
+        "property": "getElementsByName()",
+        "description": "Returns an live NodeList containing all elements with the specified name"
+    },
+    {
+        "property": "getElementsByTagName()",
+        "description": "Returns an HTMLCollection containing all elements with the specified tag name"
+    },
+    {
+        "property": "hasFocus()",
+        "description": "Returns a Boolean value indicating whether the document has focus"
+    },
+    {
+        "property": "head",
+        "description": "Returns the <head> element of the document"
+    },
+    {
+        "property": "images",
+        "description": "Returns a collection of all <img> elements in the document"
+    },
+    {
+        "property": "implementation",
+        "description": "Returns the DOMImplementation object that handles this document"
+    },
+    {
+        "property": "importNode()",
+        "description": "Imports a node from another document"
+    },
+    {
+        "property": "inputEncoding",
+        "description": "Deprecated"
+    },
+    {
+        "property": "lastModified",
+        "description": "Returns the date and time the document was last modified"
+    },
+    {
+        "property": "links",
+        "description": "Returns a collection of all <a> and <area> elements in the document that have a href attribute"
+    },
+    {
+        "property": "normalize()",
+        "description": "Removes empty Text nodes, and joins adjacent nodes"
+    },
+    {
+        "property": "normalizeDocument()",
+        "description": "Deprecated"
+    },
+    {
+        "property": "open()",
+        "description": "Opens an HTML output stream to collect output from document.write()"
+    },
+    {
+        "property": "querySelector()",
+        "description": "Returns the first element that matches a specified CSS selector(s) in the document"
+    },
+    {
+        "property": "querySelectorAll()",
+        "description": "Returns a static NodeList containing all elements that matches a specified CSS selector(s) in the document"
+    },
+    {
+        "property": "readyState",
+        "description": "Returns the (loading) status of the document"
+    },
+    {
+        "property": "referrer",
+        "description": "Returns the URL of the document that loaded the current document"
+    },
+    {
+        "property": "removeEventListener()",
+        "description": "Removes an event handler from the document (that has been attached with the addEventListener() method)"
+    },
+    {
+        "property": "renameNode()",
+        "description": "Deprecated"
+    },
+    {
+        "property": "scripts",
+        "description": "Returns a collection of <script> elements in the document"
+    },
+    {
+        "property": "strictErrorChecking",
+        "description": "Deprecated"
+    },
+    {
+        "property": "title",
+        "description": "Sets or returns the title of the document"
+    },
+    {
+        "property": "URL",
+        "description": "Returns the full URL of the HTML document"
+    },
+    {
+        "property": "write()",
+        "description": "Writes HTML expressions or JavaScript code to a document"
+    },
+    {
+        "property": "writeln()",
+        "description": "Same as write(), but adds a newline character after each statement"
+    }
+]

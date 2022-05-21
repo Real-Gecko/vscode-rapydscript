@@ -1,0 +1,234 @@
+[
+    {
+        "property": "alert()",
+        "description": "Displays an alert box with a message and an OK button"
+    },
+    {
+        "property": "atob()",
+        "description": "Decodes a base-64 encoded string"
+    },
+    {
+        "property": "blur()",
+        "description": "Removes focus from the current window"
+    },
+    {
+        "property": "btoa()",
+        "description": "Encodes a string in base-64"
+    },
+    {
+        "property": "clearInterval()",
+        "description": "Clears a timer set with setInterval()"
+    },
+    {
+        "property": "clearTimeout()",
+        "description": "Clears a timer set with setTimeout()"
+    },
+    {
+        "property": "close()",
+        "description": "Closes the current window"
+    },
+    {
+        "property": "closed",
+        "description": "Returns a boolean true if a window is closed."
+    },
+    {
+        "property": "confirm()",
+        "description": "Displays a dialog box with a message and an OK and a Cancel button"
+    },
+    {
+        "property": "console",
+        "description": "Returns the Console Object for the window."
+    },
+    {
+        "property": "defaultStatus",
+        "description": "Deprecated."
+    },
+    {
+        "property": "document",
+        "description": "Returns the Document object for the window."
+    },
+    {
+        "property": "focus()",
+        "description": "Sets focus to the current window"
+    },
+    {
+        "property": "frameElement",
+        "description": "Returns the frame in which the window runs."
+    },
+    {
+        "property": "frames",
+        "description": "Returns all window objects running in the window."
+    },
+    {
+        "property": "getComputedStyle()",
+        "description": "Gets the current computed CSS styles applied to an element"
+    },
+    {
+        "property": "getSelection()",
+        "description": "Returns a Selection object representing the range of text selected by the user"
+    },
+    {
+        "property": "history",
+        "description": "Returns the History object for the window."
+    },
+    {
+        "property": "innerHeight",
+        "description": "Returns the height of the window's content area (viewport) including scrollbars"
+    },
+    {
+        "property": "innerWidth",
+        "description": "Returns the width of a window's content area (viewport) including scrollbars"
+    },
+    {
+        "property": "length",
+        "description": "Returns the number of <iframe> elements in the current window"
+    },
+    {
+        "property": "localStorage",
+        "description": "Allows to save key/value pairs in a web browser. Stores the data with no expiration date"
+    },
+    {
+        "property": "location",
+        "description": "Returns the Location object for the window."
+    },
+    {
+        "property": "matchMedia()",
+        "description": "Returns a MediaQueryList object representing the specified CSS media query string"
+    },
+    {
+        "property": "moveBy()",
+        "description": "Moves a window relative to its current position"
+    },
+    {
+        "property": "moveTo()",
+        "description": "Moves a window to the specified position"
+    },
+    {
+        "property": "name",
+        "description": "Sets or returns the name of a window"
+    },
+    {
+        "property": "navigator",
+        "description": "Returns the Navigator object for the window."
+    },
+    {
+        "property": "onload",
+        "description": "Execute a JavaScript immediately after a page has been loaded"
+    },
+    {
+        "property": "open()",
+        "description": "Opens a new browser window"
+    },
+    {
+        "property": "opener",
+        "description": "Returns a reference to the window that created the window"
+    },
+    {
+        "property": "outerHeight",
+        "description": "Returns the height of the browser window, including toolbars/scrollbars"
+    },
+    {
+        "property": "outerWidth",
+        "description": "Returns the width of the browser window, including toolbars/scrollbars"
+    },
+    {
+        "property": "pageXOffset",
+        "description": "Returns the pixels the current document has been scrolled (horizontally) from the upper left corner of the window"
+    },
+    {
+        "property": "pageYOffset",
+        "description": "Returns the pixels the current document has been scrolled (vertically) from the upper left corner of the window"
+    },
+    {
+        "property": "parent",
+        "description": "Returns the parent window of the current window"
+    },
+    {
+        "property": "print()",
+        "description": "Prints the content of the current window"
+    },
+    {
+        "property": "prompt()",
+        "description": "Displays a dialog box that prompts the visitor for input"
+    },
+    {
+        "property": "requestAnimationFrame()",
+        "description": "Requests the browser to call a function to update an animation before the next repaint"
+    },
+    {
+        "property": "resizeBy()",
+        "description": "Resizes the window by the specified pixels"
+    },
+    {
+        "property": "resizeTo()",
+        "description": "Resizes the window to the specified width and height"
+    },
+    {
+        "property": "screen",
+        "description": "Returns the Screen object for the window"
+    },
+    {
+        "property": "screenLeft",
+        "description": "Returns the horizontal coordinate of the window relative to the screen"
+    },
+    {
+        "property": "screenTop",
+        "description": "Returns the vertical coordinate of the window relative to the screen"
+    },
+    {
+        "property": "screenX",
+        "description": "Returns the horizontal coordinate of the window relative to the screen"
+    },
+    {
+        "property": "screenY",
+        "description": "Returns the vertical coordinate of the window relative to the screen"
+    },
+    {
+        "property": "scroll()",
+        "description": "Deprecated. This method has been replaced by the scrollTo() method."
+    },
+    {
+        "property": "scrollBy()",
+        "description": "Scrolls the document by the specified number of pixels"
+    },
+    {
+        "property": "scrollTo()",
+        "description": "Scrolls the document to the specified coordinates"
+    },
+    {
+        "property": "scrollX",
+        "description": "An alias of pageXOffset"
+    },
+    {
+        "property": "scrollY",
+        "description": "An alias of pageYOffset"
+    },
+    {
+        "property": "self",
+        "description": "Returns the current window"
+    },
+    {
+        "property": "sessionStorage",
+        "description": "Allows to save key/value pairs in a web browser. Stores the data for one session"
+    },
+    {
+        "property": "setInterval()",
+        "description": "Calls a function or evaluates an expression at specified intervals (in milliseconds)"
+    },
+    {
+        "property": "setTimeout()",
+        "description": "Calls a function or evaluates an expression after a specified number of milliseconds"
+    },
+    {
+        "property": "status",
+        "description": "Deprecated. Avoid using it."
+    },
+    {
+        "property": "stop()",
+        "description": "Stops the window from loading"
+    },
+    {
+        "property": "top",
+        "description": "Returns the topmost browser window"
+    }
+]
